@@ -127,15 +127,20 @@ button:active {
 }
 
 @media (max-width: 1000px) {
-    .container {
+    /* .container {
         margin: 0 10%;
-    }
+    } */
 
-    .form-container {
-        width: 100%;
+    .body {
+        width: 100vh;
     }
 
     .img {
         width: 100%;
     }
+
+    */ .main {
+        margin: 0 10%;
+    }
+
 }
