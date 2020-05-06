@@ -127,10 +127,6 @@ button:active {
 }
 
 @media (max-width: 1000px) {
-    /* .container {
-        margin: 0 10%;
-    } */
-
     .body {
         width: 100vh;
     }
